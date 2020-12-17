@@ -1,8 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "S05_TestingGrounds.h"
 #include "InfiniteTerrainGameMode.h"
-#include "AI/Navigation/NavMeshBoundsVolume.h"
+#include "NavMesh/NavMeshBoundsVolume.h"
 #include "EngineUtils.h"
 #include "ActorPool.h"
 

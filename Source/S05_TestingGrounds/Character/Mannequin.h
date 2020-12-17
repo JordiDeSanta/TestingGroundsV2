@@ -6,7 +6,7 @@
 #include "Mannequin.generated.h"
 
 UCLASS()
-class S05_TESTINGGROUNDS_API AMannequin : public ACharacter
+class AMannequin : public ACharacter
 {
 	GENERATED_BODY()
 

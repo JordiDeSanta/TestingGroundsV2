@@ -6,6 +6,10 @@ public class S05_TestingGrounds : ModuleRules
 {
 	public S05_TestingGrounds(ReadOnlyTargetRules Target) : base(Target)
 	{
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "GameplayTasks" });
-	}
+        PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
+
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "GameplayTasks", "NavigationSystem"});
+
+        PrivateDependencyModuleNames.AddRange(new string[] { });
+    }
 }

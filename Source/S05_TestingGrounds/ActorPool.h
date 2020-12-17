@@ -7,7 +7,7 @@
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class S05_TESTINGGROUNDS_API UActorPool : public UActorComponent
+class UActorPool : public UActorComponent
 {
 	GENERATED_BODY()
 
