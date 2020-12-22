@@ -6,7 +6,7 @@
 #include "Gun.generated.h"
 
 UCLASS()
-class S05_TESTINGGROUNDS_API AGun : public AActor
+class AGun : public AActor
 {
 	GENERATED_BODY()
 

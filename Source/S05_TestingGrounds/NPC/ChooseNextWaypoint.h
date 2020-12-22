@@ -9,7 +9,7 @@
  * 
  */
 UCLASS()
-class S05_TESTINGGROUNDS_API UChooseNextWaypoint : public UBTTaskNode
+class UChooseNextWaypoint : public UBTTaskNode
 {
 	GENERATED_BODY()
 	

@@ -1,6 +1,5 @@
 // Copyright 1998-2016 Epic Games, Inc. All Rights Reserved.
 
-#include "S05_TestingGrounds.h"
 #include "BallProjectile.h"
 #include "GameFramework/ProjectileMovementComponent.h"
 

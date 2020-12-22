@@ -9,7 +9,7 @@
  * 
  */
 UCLASS()
-class S05_TESTINGGROUNDS_API AInfiniteTerrainGameMode : public AS05_TestingGroundsGameMode
+class AInfiniteTerrainGameMode : public AS05_TestingGroundsGameMode
 {
 	GENERATED_BODY()
 	
